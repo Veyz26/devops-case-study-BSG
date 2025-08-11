@@ -83,4 +83,4 @@ You should see log entries like:
 - **Cleanup:**
   - Run `terraform destroy` and `cleanup.sh` to remove all resources.
 - **Contact:**
-  - (Add contact info for support or handover)
+  - Contact Veyz for Support or Queries
